@@ -1,0 +1,16 @@
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.AssemblyInfo.cs
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.exe
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.deps.json
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.runtimeconfig.json
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.runtimeconfig.dev.json
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.dll
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\ref\13Abstracao.dll
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\bin\Debug\net5.0\13Abstracao.pdb
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.dll
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\ref\13Abstracao.dll
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.pdb
+C:\Users\DELL\Documents\myProjects\OrientacaoObjetoEmCSharp\13Abstracao\obj\Debug\net5.0\13Abstracao.genruntimeconfig.cache
